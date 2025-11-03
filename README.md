@@ -24,7 +24,7 @@ This project fulfills that goal by:
 
 ### 1️⃣ Clone and enter the project
 ```bash
-git clone https://github.com/<your-username>/gemscap-quant-analytics.git
+git clone https://github.com/<Nikhil-S24>/gemscap-quant-analytics.git
 cd gemscap-quant-analytics
 
 
