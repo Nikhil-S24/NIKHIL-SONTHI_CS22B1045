@@ -9,7 +9,7 @@ and visualizes results interactively using **Streamlit**.
 ## 🎥 Project Demo
 
 Watch the complete project demo video below:  
-📁 [Click here to view on Google Drive](https://drive.google.com/drive/u/1/folders/1b1uqepbtSHbnMMzJ0Y5UgJiTLWbAaMLQ)
+📁 [Project Demo](https://drive.google.com/drive/u/1/folders/1b1uqepbtSHbnMMzJ0Y5UgJiTLWbAaMLQ)
 
 ## 🎯 Objective
 Design and implement a complete analytical app demonstrating an end-to-end workflow —  
