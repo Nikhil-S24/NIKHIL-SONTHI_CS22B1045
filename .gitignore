@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/*.csv
+data/*.db
+data/*.ndjson
+
+# Streamlit cache
+.streamlit/
